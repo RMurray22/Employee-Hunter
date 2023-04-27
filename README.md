@@ -36,4 +36,4 @@ To run Employee Hunter locally:
 
 1. Pull down and/or branch this repository
 2. Run `npm i` to install all dependencies
-3. Invoke app with `node index.js` </br>
+3. Invoke app with `node server.js` </br>
